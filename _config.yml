@@ -50,14 +50,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "2889702369qq.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  github: ZhengRu
+  Bilibili: 正如004
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -86,7 +82,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: 这是个测试的个人网站，正在学习中.....
 
 ###########################
 # --- General options --- #
@@ -94,9 +90,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
   reddit: false
 
@@ -136,15 +132,15 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
+page-col: "#a8c7fa69"
 text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
+link-col: "#f63ac0"
+hover-col: "#fe6f6f"
+navbar-col: "#f3cad9f0"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-text-col: "#cf2d2d"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
